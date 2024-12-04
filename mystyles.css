@@ -1,0 +1,15 @@
+body {
+        text-align: center;
+        background-color: lightblue;
+        color: black;
+      }
+      table {
+        background-color: lightyellow;
+        margin: auto;
+      }
+      table, th, td {
+        border: 1px solid black;
+      }
+      img {
+        width: 400px;
+      }
